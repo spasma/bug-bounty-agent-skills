@@ -1,0 +1,25 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor cruft
+*.swp
+.idea/
+.vscode/
+
+# Never commit credentials or key material
+*.pem
+*.key
+*.p12
+*.jks
+.id_rsa*
+.env
+.env.*
+
+# Local scratch — keep the repo clean of working notes
+/tmp/
+notes/
+scratch/
+
+# If you install skills into this checkout they become copies, not sources
+.skills/
