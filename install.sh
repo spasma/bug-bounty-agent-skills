@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# agent-skills installer
+# agent-skills installer (murrtada/bug-bounty-agent-skills)
 #
 # Copies every <category>/SKILL.md in ./skills into the skill directories of
 # whichever agents are installed on this machine. Skips unknown/absent agents
@@ -87,7 +87,7 @@ install_for_agent() {
   return 0
 }
 
-echo "agent-skills installer"
+echo "bug-bounty-agent-skills installer"
 echo "----------------------"
 echo "skill library: $SKILLS_DIR"
 echo ""

@@ -42,8 +42,8 @@ operations, and offensive security research. Every skill is a single
 ### Quick start (recommended)
 
 ```bash
-git clone https://github.com/murrtada/agent-skills.git
-cd agent-skills
+git clone https://github.com/murrtada/bug-bounty-agent-skills.git
+cd bug-bounty-agent-skills
 ./install.sh          # auto-detects your installed agents and copies skills in
 ```
 
@@ -72,7 +72,7 @@ cp -r skills/* ~/.codex/skills/             # Codex CLI (global)
 Or use the cross-agent **Skills CLI**:
 
 ```bash
-npx skills add murrtada/agent-skills -a claude-code      # also: -a opencode -a gemini -a codex -a copilot -a cursor
+npx skills add murrtada/bug-bounty-agent-skills -a claude-code      # also: -a opencode -a gemini -a codex -a copilot -a cursor
 ```
 
 Start a new session after installing. Skills activate automatically when your
