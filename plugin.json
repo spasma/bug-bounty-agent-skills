@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "bug-bounty-agent-skills",
+  "version": "1.0.0",
+  "description": "93 skills voor geautoriseerde bug bounty en offensive security research."
+}
