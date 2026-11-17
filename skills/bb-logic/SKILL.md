@@ -1,3 +1,8 @@
+---
+name: bb-logic
+description: "Business-logic and race-condition testing reference for authorized bug bounty work: numeric and pricing abuse, state-machine flaws and race conditions. Use when testing checkout, vouchers, limits or any multi-step flow. Every finding needs an observable state change."
+---
+
 # bb-logic — Business-Logic & Race Testing Reference
 
 Companion to `bb-ops/playbooks/{business-logic,race-condition}.yaml`.

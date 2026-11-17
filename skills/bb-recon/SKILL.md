@@ -1,3 +1,8 @@
+---
+name: bb-recon
+description: "Discovery methodology and tool commands for authorized bug bounty work: passive and low-noise active recon against in-scope web targets. Use in recon and content-collection tasks. Every command must pass the scope guard first."
+---
+
 # bb-recon — Discovery Methodology & Tool Commands
 
 Scope: passive + low-noise active recon against in-scope web targets. Load this skill

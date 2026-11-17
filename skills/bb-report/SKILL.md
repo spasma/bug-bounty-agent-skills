@@ -1,3 +1,8 @@
+---
+name: bb-report
+description: "Reporting discipline for bug bounty submissions: report anatomy for YesWeHack, severity and CVSS, reproduction steps, and impact statements a triager can reproduce in under a minute. Use when writing or reviewing a report before submission."
+---
+
 # bb-report — Reporting Discipline
 
 Companion to assessor + reporter roles.

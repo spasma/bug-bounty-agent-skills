@@ -1,3 +1,8 @@
+---
+name: bb-ai
+description: "AI/LLM security testing reference for authorized bug bounty work: prompt injection, indirect prompt injection, and abuse of model-backed features. Use when the target exposes a chatbot, an assistant, or any LLM-backed feature, and when running AI-analyzer tasks. Test with test inputs only; never abuse production keys."
+---
+
 # bb-ai — AI/LLM Security Testing Reference
 
 Companion to `bb-ops/playbooks/{prompt-injection,indirect-prompt-injection}.yaml`.

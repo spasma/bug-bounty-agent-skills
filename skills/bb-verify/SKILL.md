@@ -1,3 +1,8 @@
+---
+name: bb-verify
+description: "Candidate triage and evidence discipline for bug bounty findings: the evidence manifest a finding needs, false-positive checks and bypass research. Use before reporting, to decide whether a candidate is a real, reproducible finding."
+---
+
 # bb-verify — Candidate Triage & Evidence Discipline
 
 Companion to verifier + bypass-researcher roles.

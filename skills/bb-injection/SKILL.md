@@ -1,3 +1,8 @@
+---
+name: bb-injection
+description: "Injection testing reference for authorized bug bounty work: SQLi, NoSQLi, command injection, SSTI, LFI, XXE, deserialization and RCE. Use when parameters reach a backend interpreter, and when running injection-analyzer tasks. Scope-guard every host first."
+---
+
 # bb-injection — Injection Testing Reference
 
 Companion to `bb-ops/playbooks/{sqli,nosqli,cmdi,ssti,lfi,xxe,deserialization,rce}.yaml`.

@@ -1,3 +1,8 @@
+---
+name: bb-api
+description: "API and GraphQL testing reference for authorized bug bounty work: GraphQL introspection and abuse, WebSocket testing, and REST API checks. Use when the target exposes an API, a GraphQL endpoint or WebSockets, and when running API-analyzer tasks."
+---
+
 # bb-api — API & GraphQL Testing Reference
 
 Companion to `bb-ops/playbooks/{graphql,websocket}.yaml` + api-analyzer role.

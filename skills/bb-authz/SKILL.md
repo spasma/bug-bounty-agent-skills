@@ -1,3 +1,8 @@
+---
+name: bb-authz
+description: "Authentication and authorization testing reference for authorized bug bounty work: IDOR/BOLA checklists, broken access control, JWT, OAuth and auth bypass. Use when testing access control or login flows, and when running authz-analyzer tasks. Two-account testing is mandatory for IDOR claims."
+---
+
 # bb-authz — AuthN/AuthZ Testing Reference
 
 Companion to `bb-ops/playbooks/{idor,broken-access-control,jwt,oauth,auth-bypass}.yaml`.

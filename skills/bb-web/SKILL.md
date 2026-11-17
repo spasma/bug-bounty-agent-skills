@@ -1,3 +1,8 @@
+---
+name: bb-web
+description: "Client-side and HTTP-hygiene testing reference for authorized bug bounty work: XSS (including Dalfox), DOM XSS, CORS, open redirects, CSRF, file upload, HTTP smuggling, cache poisoning and host-header issues. Use when testing browser-facing behaviour, and when running web-analyzer tasks."
+---
+
 # bb-web — Client-Side & HTTP-Hygiene Testing Reference
 
 Companion to `bb-ops/playbooks/{xss,xss-dalfox,dom-xss,cors,open-redirect,config-review,csrf,file-upload,http-smuggling,cache-poison,host-header}.yaml`.

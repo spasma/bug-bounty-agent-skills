@@ -1,3 +1,8 @@
+---
+name: bb-handoff
+description: "Rules for writing manual-test tasks a human will actually execute, with concrete steps, scope and expected evidence. Use when automated testing reaches its limit and a finding or lead has to be handed to a person for manual verification."
+---
+
 # bb-handoff — Manual-Test Task Crafting
 
 Companion to the handoff agent. These are the rules for writing tasks the human will

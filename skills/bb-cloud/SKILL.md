@@ -1,3 +1,8 @@
+---
+name: bb-cloud
+description: "Web-reachable cloud and container testing reference for authorized bug bounty work: SSRF (OAST first), cloud metadata services, configuration review, secret discovery and Spring Boot actuators. Use when a target fetches URLs or runs on cloud infrastructure. Web-reachable surfaces only, no posture tooling."
+---
+
 # bb-cloud — Web-Reachable Cloud/Container Testing Reference
 
 Companion to `bb-ops/playbooks/{ssrf,cloud-imds,config-review,secret-discovery,springboot}.yaml`.
